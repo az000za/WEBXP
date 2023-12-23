@@ -1,18 +1,11 @@
 # WEBXP
-A website that aggregates your awards from other websites
+A website that aggregates your awards from other websites.
 
-Supports Digital Awards
+Users can sign up to showcase awards to those who click on provided link.
+Users can sign up to issue awards to others.
 
-- GitHub
 
-- 
-- Steam
-- PlayStation
-- XBox
-
-- Roblox
-- MineCraft
-- ETC
+Digital Awards Below to Support:
 
 
 
