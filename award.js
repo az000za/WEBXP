@@ -4,6 +4,8 @@ class Award {
     this.category = category;
     this.description = description;
     this.dateReceived = dateReceived;
+    // this.image = image;
+    // this.video = video;
     this.issuer = issuer;
     // this.cryptoSigned = // blockchain id stuff goes here
   }
