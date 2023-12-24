@@ -6,6 +6,7 @@ class Award {
     this.dateReceived = dateReceived;
     // this.image = image;
     // this.video = video;
+    this.receiver = receiver;
     this.issuer = issuer;
     // this.cryptoSigned = // blockchain id stuff goes here
   }
