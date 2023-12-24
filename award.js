@@ -18,11 +18,3 @@ class Award {
     console.log(`Date Received: ${this.dateReceived}`);
   }
 }
-
-// // Creating an instance of the Award class
-// const sampleAward = new Award(
-//   "Outstanding Contribution Award",
-//   "Professional Recognition",
-//   "Awarded for exceptional contributions to the company.",
-//   "December 15, 2023"
-// );
