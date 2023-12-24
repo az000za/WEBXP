@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .name {}
+      .email {}
+    </style>
+  </head>
+  <body id="root">
+    <form>
+      <input name="name" placeholder="Name of Award Issuer Entity">
+      <input name="email" placeholder="Email of Award Issuer Entity">
+      <input name="website" placeholder="Website link of Issuer">
+      <input name="description" placeholder="Description of Awards">
+      <button>Submit Form</button>
+    </form>
+  </body>
+  <script type="text/javascript" filename="awarder.html">
+    class Awarder {
+      constructor(name,email,website,description){
+        this.name = name;
+        this.email = email;
+        this.website = website;
+        this.description = description;
+      }
+    }
+  </script>
+</html>
